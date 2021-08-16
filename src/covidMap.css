@@ -1,0 +1,14 @@
+.leaflet-container{
+    background-color:lightblue;
+}
+.leaflet-popup-content-wrapper{
+    background-color: white;
+}
+
+
+.finalcase{
+    color: red;
+}
+.recover{
+    color:green
+}

@@ -1,0 +1,433 @@
+[
+    {
+        "state": "Maharashtra",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 6321068,
+        "NewDeaths": 0,
+        "TotalDeaths": 133215,
+        "NewRecovered": 0,
+        "TotalRecovered": 6110124,
+        "Active":77729,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+
+      {
+        "state": "Kerala",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3449149,
+        "NewDeaths": 0,
+        "TotalDeaths": 14325,
+        "NewRecovered": 0,
+        "TotalRecovered": 3258310,
+        "Active":1702,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+
+
+
+      {
+        "state": "Karnataka",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2909958,
+        "NewDeaths": 0,
+        "TotalDeaths": 14325,
+        "NewRecovered": 0,
+        "TotalRecovered": 3258310,
+        "Active":1702,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Tamil Nadu",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2565452,
+        "NewDeaths": 0,
+        "TotalDeaths": 13325,
+        "NewRecovered": 0,
+        "TotalRecovered": 3258310,
+        "Active":20217,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Andhra Pradesh",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1971554,
+        "NewDeaths": 0,
+        "TotalDeaths": 13325,
+        "NewRecovered": 0,
+        "TotalRecovered": 1937956,
+        "Active":20170,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Uttar Pradesh",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 170856262,
+        "NewDeaths": 0,
+        "TotalDeaths": 22765,
+        "NewRecovered": 0,
+        "TotalRecovered": 1685125,
+        "Active":672,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "West Bengal",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1530024,
+        "NewDeaths": 0,
+        "TotalDeaths": 1817,
+        "NewRecovered": 0,
+        "TotalRecovered": 1501087,
+        "Active":10767,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Delhi",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1436451,
+        "NewDeaths": 0,
+        "TotalDeaths":25058,
+        "NewRecovered": 0,
+        "TotalRecovered": 141087465,
+        "Active":519,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Chhattisgarh",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1002600142,
+        "NewDeaths": 0,
+        "TotalDeaths":13530,
+        "NewRecovered": 0,
+        "TotalRecovered": 98718917,
+        "Active":1881,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Odisha",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 980866,
+        "NewDeaths": 0,
+        "TotalDeaths":610269,
+        "NewRecovered": 0,
+        "TotalRecovered": 96208817,
+        "Active":126766,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Rajasthan",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 953715,
+        "NewDeaths": 0,
+        "TotalDeaths":610269,
+        "NewRecovered": 0,
+        "TotalRecovered":944541,
+        "Active":220,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Gujarat",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 82493917,
+        "NewDeaths": 0,
+        "TotalDeaths":10076,
+        "NewRecovered": 0,
+        "TotalRecovered":814637,
+        "Active":226,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Madhya Pradesh",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 82493917,
+        "NewDeaths": 0,
+        "TotalDeaths":10513,
+        "NewRecovered": 0,
+        "TotalRecovered":781228,
+        "Active":139,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Haryana",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 769982,
+        "NewDeaths": 0,
+        "TotalDeaths":9641,
+        "NewRecovered": 0,
+        "TotalRecovered":75963,
+        "Active":708,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Bihar",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 724977,
+        "NewDeaths": 0,
+        "TotalDeaths":9644,
+        "NewRecovered": 0,
+        "TotalRecovered":714949,
+        "Active":384,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Telengana",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 6466066,
+        "NewDeaths": 0,
+        "TotalDeaths":8777,
+        "NewRecovered": 0,
+        "TotalRecovered":714949,
+        "Active":3811,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Punjab",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 599204,
+        "NewDeaths": 0,
+        "TotalDeaths":7977,
+        "NewRecovered": 0,
+        "TotalRecovered":771449,
+        "Active":463,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Assam",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 569439,
+        "NewDeaths": 0,
+        "TotalDeaths":6911,
+        "NewRecovered": 0,
+        "TotalRecovered":12229,
+        "Active":463,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Jharkhand",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 347246,
+        "NewDeaths": 0,
+        "TotalDeaths":5129,
+        "NewRecovered": 0,
+        "TotalRecovered":341883,
+        "Active":324,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Uttarakhand",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 312241,
+        "NewDeaths": 0,
+        "TotalDeaths":5129,
+        "NewRecovered": 0,
+        "TotalRecovered":334299,
+        "Active":581,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Jammu And Kashmir",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 312241,
+        "NewDeaths": 0,
+        "TotalDeaths":52132,
+        "NewRecovered": 0,
+        "TotalRecovered":316188,
+        "Active":1293,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Himachal Pradesh",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 206589,
+        "NewDeaths": 0,
+        "TotalDeaths":52132,
+        "NewRecovered": 0,
+        "TotalRecovered":201652,
+        "Active":1414,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Goa",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 171396,
+        "NewDeaths": 0,
+        "TotalDeaths":44132,
+        "NewRecovered": 0,
+        "TotalRecovered":212252,
+        "Active":999,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Puducherry",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 112113,
+        "NewDeaths": 0,
+        "TotalDeaths":24132,
+        "NewRecovered": 0,
+        "TotalRecovered":192252,
+        "Active":939,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Manipur",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 100625,
+        "NewDeaths": 0,
+        "TotalDeaths":24132,
+        "NewRecovered": 0,
+        "TotalRecovered":192252,
+        "Active":9432,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Tripura",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 111625,
+        "NewDeaths": 0,
+        "TotalDeaths":24132,
+        "NewRecovered": 0,
+        "TotalRecovered":182352,
+        "Active":9432,
+        "Date": "2020-04-05T06:37:00Z"
+      }
+      ,
+      {
+        "state": "Meghalaya",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 66495,
+        "NewDeaths": 0,
+        "TotalDeaths":21132,
+        "NewRecovered": 0,
+        "TotalRecovered":185652,
+        "Active":5432,
+        "Date": "2020-04-05T06:37:00Z"
+      },
+      {
+        "state": "Chandigarh",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 61495,
+        "NewDeaths": 0,
+        "TotalDeaths":24132,
+        "NewRecovered": 0,
+        "TotalRecovered":145652,
+        "Active":532,
+        "Date": "2020-04-05T06:37:00Z"
+      }
+      ,{
+        "state": "Arunachal Pradesh",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 61235,
+        "NewDeaths": 0,
+        "TotalDeaths":21132,
+        "NewRecovered": 0,
+        "TotalRecovered":1754552,
+        "Active":502,
+        "Date": "2020-04-05T06:37:00Z"
+      }
+      ,{
+        "state": "Mizoram",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 513235,
+        "NewDeaths": 0,
+        "TotalDeaths":2452,
+        "NewRecovered": 0,
+        "TotalRecovered":134222,
+        "Active":502,
+        "Date": "2020-04-05T06:37:00Z"
+      }
+      
+      ,{
+        "state": "Nagaland",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 513235,
+        "NewDeaths": 0,
+        "TotalDeaths":2452,
+        "NewRecovered": 0,
+        "TotalRecovered":1464552,
+        "Active":502,
+        "Date": "2020-04-05T06:37:00Z"
+      }
+
+      ,{
+        "state": "Sikkim",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 513235,
+        "NewDeaths": 0,
+        "TotalDeaths":2452,
+        "NewRecovered": 0,
+        "TotalRecovered":176652,
+        "Active":502,
+        "Date": "2020-04-05T06:37:00Z"
+      }
+      ,{
+        "state": "Ladakh",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 513235,
+        "NewDeaths": 0,
+        "TotalDeaths":2452,
+        "NewRecovered": 0,
+        "TotalRecovered":1364552,
+        "Active":502,
+        "Date": "2020-04-05T06:37:00Z"
+      }
+      ,{
+        "state": "Andaman And Nicobar",
+       
+        "NewConfirmed": 0,
+        "TotalConfirmed": 7504,
+        "NewDeaths": 0,
+        "TotalDeaths":129,
+        "NewRecovered": 0,
+        "TotalRecovered":7405,
+        "Active":6,
+        "Date": "2020-04-05T06:37:00Z"
+      }
+
+      
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+]
